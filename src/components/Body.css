@@ -1,0 +1,43 @@
+body{
+    background-color: #ffffff;
+}
+.global{
+    background-color: aqua;
+}
+.allfont-1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    color: red;
+}
+.allfont{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    
+}
+.row{
+   justify-content: center;
+}
+.item1{
+    gap: 10px;
+    gap: 10px 20px; /* row-gap column gap */
+    row-gap: 10px;
+    column-gap: 20px;
+}
+.section-1{
+    background-color: rgb(126, 255, 255);
+}
+.section-2{
+    background-color: #ffffff;
+}
+.prime{
+    background: linear-gradient(10deg, #17224d 10%, #17e9e1 81%);
+    color: white;
+}
+.prime1{
+    background-color: rgb(15, 8, 62);
+}
+.prime2{
+    color: black;
+}
