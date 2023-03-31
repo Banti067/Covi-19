@@ -1,4 +1,4 @@
-import * as Recat from 'react';
+import * as React from 'react';
 import Body from './components/Body';
 
 
