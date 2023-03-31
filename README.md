@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project live view [Covi-19](https://banti067.github.io/Covi-19/).
 
 ## Available Scripts
 
